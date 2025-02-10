@@ -26,7 +26,7 @@ Installation
 
 Clone the Repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone [(https://github.com/bunjo05/simple-post-crud-with-inertia)]
 cd your-repo-name
 
 Install PHP Dependencies:
