@@ -59,7 +59,7 @@ Build Frontend Assets:
 
 Compile the frontend assets using Laravel Mix:
 
-[npm run dev]
+##npm run dev##
 
 Start the Development Server:
 
