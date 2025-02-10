@@ -31,21 +31,21 @@ cd your-repo-name
 
 Install PHP Dependencies:
 
-composer install
+[composer install]
 
 Install JavaScript Dependencies:
 
-npm install
+[npm install]
 
 Environment Configuration:
 
 Copy the example environment file and modify the necessary settings:
 
-cp .env.example .env
+[cp .env.example .env]
 
 Generate a new application key:
 
-php artisan key:generate
+[php artisan key:generate]
 
 Configure your database settings in the .env file.
 
@@ -53,17 +53,17 @@ Database Migration:
 
 Run the migrations to set up the database schema:
 
-php artisan migrate
+[php artisan migrate]
 
 Build Frontend Assets:
 
 Compile the frontend assets using Laravel Mix:
 
-npm run dev
+[npm run dev]
 
 Start the Development Server:
 
-php artisan serve
+[php artisan serve]
 
 Access the application at http://localhost:8000.
 
